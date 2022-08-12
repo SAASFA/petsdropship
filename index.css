@@ -1,0 +1,115 @@
+/* https://www.ingridkuhn.com/themes/doggo/index2.php */
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap');
+.main-1{
+    background-image: url("images/firstbg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:fixed ;
+  background-size: cover;
+  height: 100vh;
+  /* position:relative ; */
+  top: 0%;
+  width: 100%;
+}
+.main-2{
+    background-image: url("images/bgimage-1.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:fixed ;
+  background-size: cover;
+  height: 100vh;
+  /* position:relative ; */
+  /* top: 0%; */
+  width: 100%;
+}
+
+
+.section-3{
+   
+}
+.section-4{
+   
+  /* background-color:white; */
+/* width: 100vw; */
+}
+.section-2{
+  height: auto;
+  /* background-color:red; */
+  /* opacity: 0.5; */
+}
+/* .section-3{
+  height: 100vh;
+  background-color:orange;
+  opacity: 0.5;
+} */
+.main-heading1{
+     font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    color: #043775;
+    font-size: 60px;
+    
+}
+.main-heading2{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    color: #043775;
+    font-size: 40px;
+}
+.main-heading3{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    color: #043775;
+    font-size: 30px;
+}
+.fontp{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    color:grey;
+    font-size: 14px;
+}
+.fontt{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    color: #F8AE4F;;
+    font-size: 16px;
+}
+.font-nunito{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    
+}
+.color-blue{
+    color: #043775;
+}
+.input-contact{
+    border: none;
+    outline: none;
+    background-color: transparent;
+  }
+.about{
+    background-color: #FFF6E8;
+}
+.circle{
+    border:8px solid #F8AE4F;
+}
+.img-div-1{
+    top: -4%;
+    width: 40%;
+    position:relative
+    /* right: 5%; */
+}
+.img-div-2{
+    top: -10%;
+    left: 8%;
+    width: 70%;
+    position:relative
+}
+.color-yellow{
+    color: #F8AE4F;;
+}
+.img-div-3{
+    top: 0%;
+    width: 40%;
+    position:relative
+}
