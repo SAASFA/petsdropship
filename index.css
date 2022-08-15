@@ -13,7 +13,7 @@
   width: 100%;
 }
 .main-2{
-    background-image: url("images/bgimage-1.png");
+    background-image: url("images/second-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position:fixed ;
@@ -25,13 +25,24 @@
 }
 
 
-.section-3{
-   
-}
 .section-4{
+   height: auto;
+}
+
+.section-5{
    
-  /* background-color:white; */
-/* width: 100vw; */
+    background-color: #FFF6E8;
+    height: auto;
+    /* background-color: white; */
+    /* position:relative ; */
+    /* top: 0%; */
+    width: 100%;
+}
+.section-6{
+   
+    background-color: white;
+    
+    width: 100%;
 }
 .section-2{
   height: auto;
@@ -53,7 +64,7 @@
 .main-heading2{
     font-family: 'Nunito', sans-serif;
     font-weight: 900;
-    color: #043775;
+   
     font-size: 40px;
 }
 .main-heading3{
@@ -71,13 +82,23 @@
 .fontt{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
-    color: #F8AE4F;;
+    color: #F8AE4F;
+    font-size: 14px;
+}
+.font-16{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    /* color: #F8AE4F;; */
     font-size: 16px;
 }
 .font-nunito{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     
+}
+.testimonial{
+    border-radius: 0px 100px 0px 100px;
+    background-color: #FFF6E8;
 }
 .color-blue{
     color: #043775;
@@ -87,11 +108,17 @@
     outline: none;
     background-color: transparent;
   }
+  .footer{
+    background-color:#043775;
+  }
 .about{
     background-color: #FFF6E8;
 }
 .circle{
     border:8px solid #F8AE4F;
+}
+.color-black{
+    color: black;
 }
 .img-div-1{
     top: -4%;
