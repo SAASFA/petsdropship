@@ -73,6 +73,12 @@
     color: #043775;
     font-size: 30px;
 }
+.main-heading4{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    color: #043775;
+    font-size: 20px;
+}
 .fontp{
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
@@ -114,8 +120,17 @@
 .about{
     background-color: #FFF6E8;
 }
+.form-2{
+    background-color: #F8AE4F;
+}
+.form-3{
+    background-color:#EAE4D2;
+}
 .circle{
     border:8px solid #F8AE4F;
+}
+.border-yellow{
+    border:1px solid #F8AE4F;
 }
 .color-black{
     color: black;
