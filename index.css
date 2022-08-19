@@ -65,13 +65,19 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 900;
    
-    font-size: 40px;
+    font-size: 44px;
+}
+.main-heading12{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+   
+    font-size: 70px;
 }
 .main-heading3{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     color: #043775;
-    font-size: 30px;
+    font-size: 44px;
 }
 .main-heading4{
     font-family: 'Nunito', sans-serif;
@@ -84,6 +90,13 @@
     font-weight: 400;
     color:grey;
     font-size: 14px;
+}
+.fontp-wp{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    color:#989EA1;
+    font-size: 18px;
+    
 }
 .fontt{
     font-family: 'Nunito', sans-serif;
