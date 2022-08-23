@@ -110,6 +110,15 @@
     /* color: #F8AE4F;; */
     font-size: 16px;
 }
+.font-21{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    /* color: #F8AE4F;; */
+    font-size: 25px;
+}
+.call-img{
+    border: 9px solid white;
+}
 .font-nunito{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
